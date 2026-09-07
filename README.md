@@ -117,21 +117,19 @@ Hi! I'm Ayush Rakholiya, a **Full-Stack & AI/ML Engineer** at **Yudiz Solutions 
 
 ## Featured Projects
 
-### AI & Computer Vision Solutions
-
-#### 1. [Human Recognition & Occupancy Monitoring System]([Project Link 1])
+### 1. [Human Recognition & Occupancy Monitoring System]([Project Link 1])
 > **Tech Stack:** `YOLOv8` `OpenCV` `FastAPI` `PostgreSQL` `Python` `RTSP`
 - Built a real-time CCTV-based Human Recognition and Occupancy Monitoring System using YOLOv8 and OpenCV.
 - Implemented real-time employee face recognition and live identity overlays on camera streams.
 - Engineered FastAPI backend services to monitor cabin-wise presence, process live RTSP feeds, and count human occupancy.
 
-#### 2. [AI Mental Health Chatbot]([Project Link 2])
+### 2. [AI Mental Health Chatbot]([Project Link 2])
 > **Tech Stack:** `LangChain` `LLMs` `Python` `Prompt Engineering` `AI Safety`
 - Developed an LLM-powered mental health chatbot for empathetic, context-aware user conversations.
 - Implemented conversation memory, custom prompt engineering, and contextual response pipelines.
 - Integrated strict AI safety guardrails to ensure response quality, empathy, and conversational reliability.
 
-#### 3. [NeuroCry-AI: Infant Cry Analysis]([Project Link 3])
+### 3. [NeuroCry-AI: Infant Cry Analysis]([Project Link 3])
 > **Tech Stack:** `PyTorch` `MFCC` `FastAPI` `Deep Learning` `Audio Processing`
 - Built a deep learning classification system to identify infant cry patterns.
 - Engineered an MFCC-based (Mel-Frequency Cepstral Coefficients) audio feature extraction pipeline.
@@ -145,57 +143,16 @@ Hi! I'm Ayush Rakholiya, a **Full-Stack & AI/ML Engineer** at **Yudiz Solutions 
 
 ---
 
-### Enterprise & Full-Stack Systems (Yudiz Solutions)
-
-#### 5. [Inventory & Warehouse Management System]([Project Link 5])
-> **Tech Stack:** `Python` `Django` `Django REST Framework` `React.js` `PostgreSQL` `Redis` `Celery`
-- Designed and developed a full-stack platform for managing products, stock levels, suppliers, purchase orders, and warehouse transfers.
-- Built responsive React.js operational dashboards integrated with Django REST APIs.
-- Implemented automated stock tracking, low-stock alerts, role-based access control (RBAC), and Celery/Redis background workflows.
-
-#### 6. [Employee Timesheet & Payroll Management System]([Project Link 6])
-> **Tech Stack:** `Python` `Django` `Django REST Framework` `React.js` `PostgreSQL` `Celery` `Redis` `JavaScript`
-- Built a full-stack employee timesheet and payroll management platform tracking attendance, working hours, leave requests, and overtime.
-- Developed interactive React.js dashboards for employee submission and manager approval workflows.
-- Implemented automated calculations for working hours and payroll along with PDF and Excel export reporting using Celery and Redis.
-
-#### 7. [Healthcare Appointment & Telemedicine Platform]([Project Link 7])
-> **Tech Stack:** `Python` `FastAPI` `React.js` `PostgreSQL` `Redis` `AWS S3` `REST APIs`
-- Designed a full-stack telemedicine platform for doctor profiles, patient appointments, availability schedules, and digital medical records.
-- Integrated React.js frontend components with FastAPI REST APIs and AWS S3 secure document management.
-- Implemented automated appointment reminders, notification workflows, and query optimization for fast scheduling.
-
-#### 8. [Food Delivery & Order Management System]([Project Link 8])
-> **Tech Stack:** `Python` `Django` `Django REST Framework` `React.js` `PostgreSQL` `Redis` `Celery`
-- Developed a backend-focused food delivery platform supporting restaurant catalog management, customer carts, checkout lifecycle, and delivery assignment.
-- Utilized Celery and Redis for real-time background task execution, order status tracking, and notification caching.
-
-#### 9. [Property Rental Management Platform]([Project Link 9])
-> **Tech Stack:** `Python` `Django` `Django REST Framework` `React.js` `PostgreSQL` `Redis` `AWS S3`
-- Developed a full-stack property rental platform for property listings, search filtering, booking requests, payments, and rental workflows.
-- Integrated AWS S3 for property image/document storage and optimized PostgreSQL queries and Redis caching for fast search performance.
-
----
-
 ## Professional Experience
 
 ### **Yudiz Solutions**
-**Full Stack & AI/ML Engineer** • *Mar 2026 – Present*  
+**Full Stack & AI/ML Engineer**  
 `Python` • `FastAPI` • `Django` • `React.js` • `OpenCV` • `YOLOv8` • `PostgreSQL` • `Docker` • `AWS`
 
 - Developing real-time Computer Vision applications using Python, OpenCV, and YOLOv8 to process live RTSP camera feeds for human detection, counting, and employee recognition.
 - Building FastAPI and Django REST Framework backend services for low-latency AI inference, business logic, and authentication.
 - Developing interactive React.js frontend dashboards integrated with backend APIs for enterprise web platforms.
 - Containerizing AI and web applications using Docker and managing PostgreSQL databases for scalable cloud deployment.
-
-### **Awakeen Studio Pvt. Ltd.**
-**Python AI/ML Intern** • *Jan 2025 – Jun 2025*  
-`Python` • `PyTorch` • `Scikit-Learn` • `FastAPI` • `Pandas` • `NumPy` • `Docker`
-
-- Built and evaluated Machine Learning models using Scikit-learn and PyTorch.
-- Engineered FastAPI REST APIs for real-time model inference and prediction endpoints.
-- Preprocessed datasets and engineered features using Pandas and NumPy.
-- Containerized AI inference services using Docker microservices.
 
 ---
 

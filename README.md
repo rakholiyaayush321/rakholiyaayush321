@@ -97,25 +97,25 @@ Hi! I'm Ayush Rakholiya, an **AI/ML Engineer** at **Yudiz Solutions Limited**. I
 
 ## Featured Projects
 
-### 1. [Human Recognition & Occupancy Monitoring System]([Project Link 1])
+### 1. Human Recognition & Occupancy Monitoring System
 > **Tech Stack:** `YOLOv8` `OpenCV` `FastAPI` `PostgreSQL` `Python` `RTSP`
 - Built a real-time CCTV-based Human Recognition and Occupancy Monitoring System using YOLOv8 and OpenCV.
 - Implemented real-time employee face recognition and live identity overlays on camera streams.
 - Engineered FastAPI backend services to monitor cabin-wise presence, process live RTSP feeds, and count human occupancy.
 
-### 2. [AI Mental Health Chatbot]([Project Link 2])
+### 2. AI Mental Health Chatbot
 > **Tech Stack:** `LangChain` `LLMs` `Python` `Prompt Engineering` `AI Safety`
 - Developed an LLM-powered mental health chatbot for empathetic, context-aware user conversations.
 - Implemented conversation memory, custom prompt engineering, and contextual response pipelines.
 - Integrated strict AI safety guardrails to ensure response quality, empathy, and conversational reliability.
 
-### 3. [NeuroCry-AI: Infant Cry Analysis]([Project Link 3])
+### 3. NeuroCry-AI: Infant Cry Analysis
 > **Tech Stack:** `PyTorch` `MFCC` `FastAPI` `Deep Learning` `Audio Processing`
 - Built a deep learning classification system to identify infant cry patterns.
 - Engineered an MFCC-based (Mel-Frequency Cepstral Coefficients) audio feature extraction pipeline.
 - Served real-time predictions via low-latency FastAPI REST API inference endpoints.
 
-### 4. [AI Job Application Automation]([Project Link 4])
+### 4. AI Job Application Automation
 > **Tech Stack:** `n8n` `SMTP` `Email APIs` `Automation`
 - Created an automated workflow with n8n to streamline job search and application submissions.
 - Integrated SMTP and Email APIs for automated resume delivery and recruiter outreach.

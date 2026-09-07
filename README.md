@@ -10,15 +10,14 @@
 </p>
 
 ## About Me
-Hi! I'm Ayush Rakholiya, a **Full-Stack & AI/ML Engineer** at **Yudiz Solutions Limited**. I have 2+ years of experience developing and maintaining end-to-end web applications, real-time Computer Vision pipelines, and LLM-powered systems. I specialize in building scalable backend services with **Python (Django, FastAPI, Flask)**, interactive frontends with **React.js**, real-time vision processing (**YOLOv8, OpenCV**), and cloud microservices on **AWS & Docker**.
+Hi! I'm Ayush Rakholiya, an **AI/ML Engineer** at **Yudiz Solutions Limited**. I specialize in developing production-grade Machine Learning, Computer Vision, and LLM-powered applications. I build scalable backend services with **Python (Django, FastAPI, Flask)**, responsive frontends with **React.js**, real-time vision processing (**YOLOv8, OpenCV**), and containerized solutions with **Docker**.
 
-- 🔭 &nbsp; **Building:** Real-time Computer Vision (RTSP video streams) & Enterprise Full-Stack Web Applications (ERP, E-Commerce, Telemedicine).
+- 🔭 &nbsp; **Building:** Real-time Computer Vision systems (RTSP video stream processing) & Full-Stack AI web applications.
 - 🤖 &nbsp; **Architecting:** LLM applications, empathetic mental health chatbots, LangChain workflows, AI safety guardrails & ML models (PyTorch, Scikit-Learn).
-- ⚡ &nbsp; **Backend Engineering:** Low-latency RESTful APIs (Django REST Framework, FastAPI, Flask), async task processing (Celery, Redis) & microservices.
-- 💻 &nbsp; **Frontend & UI:** Interactive React.js interfaces, reusable UI component libraries, state management & REST API integrations.
-- ☁️ &nbsp; **Cloud & DevOps:** AWS infrastructure (EC2, S3, Lambda, API Gateway), Docker containerization, Linux environments & Git workflows.
-- 💬 &nbsp; **Talk to me about:** Python, AI/ML, Computer Vision, React.js, Django, FastAPI, PostgreSQL, AWS & Docker.
-- 🎯 &nbsp; **Goal:** Developing scalable, production-grade AI systems and clean, maintainable full-stack software architectures.
+- ⚡ &nbsp; **Backend Engineering:** Low-latency RESTful APIs (Django REST Framework, FastAPI, Flask) & microservices.
+- 💻 &nbsp; **Frontend & UI:** Interactive React.js interfaces, reusable UI components & REST API integrations.
+- 💬 &nbsp; **Talk to me about:** Python, AI/ML, Computer Vision, React.js, Django, FastAPI, PostgreSQL & Docker.
+- 🎯 &nbsp; **Goal:** Developing scalable, production-grade AI systems and clean software architectures.
 
 ---
 
@@ -53,9 +52,6 @@ Hi! I'm Ayush Rakholiya, a **Full-Stack & AI/ML Engineer** at **Yudiz Solutions 
 ![Django REST Framework](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37B24D?style=for-the-badge&logo=celery&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Swagger/OpenAPI](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ### Frontend Technologies
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -65,53 +61,37 @@ Hi! I'm Ayush Rakholiya, a **Full-Stack & AI/ML Engineer** at **Yudiz Solutions 
 ### Databases & Data Modeling
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Cloud Infrastructure & DevOps
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![AWS API Gateway](https://img.shields.io/badge/API_Gateway-FF9900?style=for-the-badge&logo=amazonapigateway&logoColor=white)
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Automation & Tools
 ![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
 ## What I Build
 - ✅ &nbsp; **Real-Time Computer Vision & Stream Processing:** Handling live RTSP camera feeds for human detection, counting, employee face recognition, and occupancy monitoring (YOLOv8, OpenCV, DeepFace).
-- ✅ &nbsp; **Full-Stack Application Development:** Building end-to-end web applications with React.js interfaces connected to Python backends (Django, Django REST Framework, FastAPI, Flask).
+- ✅ &nbsp; **Full-Stack Application Development:** Building web applications with React.js interfaces connected to Python backends (Django, Django REST Framework, FastAPI, Flask).
 - ✅ &nbsp; **LLM Applications & Conversational Agents:** Developing empathetic chatbots with prompt engineering, conversation memory, contextual responses, and AI safety guardrails (LangChain).
-- ✅ &nbsp; **Async Task Queues & Scheduled Workflows:** Implementing background task processing, automated notifications, and PDF/Excel exports using Celery and Redis.
 - ✅ &nbsp; **Deep Learning Signal Processing:** Building audio feature extraction pipelines (MFCC) for real-time infant cry classification and inference services.
-- ✅ &nbsp; **API Security & Database Optimization:** Designing REST APIs with role-based access control (RBAC), JWT authentication, Swagger documentation, and optimized PostgreSQL/MySQL queries.
-- ✅ &nbsp; **Cloud & Microservices Deployment:** Containerizing multi-tier applications using Docker and deploying cloud services on AWS (EC2, S3, Lambda, API Gateway).
+- ✅ &nbsp; **API Security & Database Optimization:** Designing REST APIs with role-based access control (RBAC), authentication, and optimized PostgreSQL, MySQL, and SQLite queries.
+- ✅ &nbsp; **Containerized Microservices:** Packaging applications using Docker for consistent, scalable deployments.
 
 ---
 
 ## Yudiz Solutions Limited Spotlight
 
 **Full Stack & AI/ML Engineer** • *Ahmedabad, India*  
-*Tech Stack:* `Python` • `FastAPI` • `Django` • `React.js` • `OpenCV` • `YOLOv8` • `PostgreSQL` • `Docker` • `AWS` • `Redis` • `Celery`
+*Tech Stack:* `Python` • `FastAPI` • `Django` • `React.js` • `OpenCV` • `YOLOv8` • `PostgreSQL` • `MySQL` • `SQLite` • `Docker`
 
 ### 📝 Career Abstract & Core Capabilities
-- **Full-Stack Development:** 2+ years of experience developing and maintaining end-to-end web applications using Python (Django, FastAPI, Flask) and React.js (JavaScript ES6+, HTML5, CSS3), focusing on clean, modular, and maintainable code.
+- **Full-Stack Development:** Experience developing and maintaining web applications using Python (Django, FastAPI, Flask) and React.js (JavaScript ES6+, HTML5, CSS3), focusing on clean, modular code.
 - **Frontend & React.js Development:** Hands-on experience building responsive web interfaces using React components, Hooks, state management, routing, forms, API integration, and reusable layouts.
-- **Backend Development & API Integration:** Strong expertise in developing backend business logic, authentication systems, and RESTful APIs using Django REST Framework, FastAPI, and Flask with Swagger/OpenAPI documentation.
-- **Database & Data Modeling:** Working experience with PostgreSQL, MySQL, SQLite, DynamoDB, and MongoDB, including schema design, complex queries, migrations, and ORM integrations.
-- **Cloud, Deployment & DevOps:** Practical deployment experience on AWS (EC2, S3, Lambda, API Gateway), Linux environments, Git/Bitbucket workflows, and containerization using Docker.
-- **Security & Code Quality:** Deep understanding of RBAC, input validation, API security practices, unit/integration testing, debugging, and performance optimization.
-- **Additional Integration Experience:** Background task execution (Celery/Redis), web scraping, third-party API integrations (Twilio, SMTP), Dialogflow, and OpenCV stream analytics.
+- **Backend Development & API Integration:** Strong expertise in developing backend business logic, authentication systems, and RESTful APIs using Django REST Framework, FastAPI, and Flask.
+- **Database & Data Modeling:** Working experience with PostgreSQL, MySQL, and SQLite, including schema design, queries, migrations, and ORM integrations.
+- **Containerization & Code Quality:** Containerized application deployment using Docker, understanding of RBAC, input validation, API security practices, debugging, and performance optimization.
 
 ---
 
@@ -135,7 +115,7 @@ Hi! I'm Ayush Rakholiya, a **Full-Stack & AI/ML Engineer** at **Yudiz Solutions 
 - Engineered an MFCC-based (Mel-Frequency Cepstral Coefficients) audio feature extraction pipeline.
 - Served real-time predictions via low-latency FastAPI REST API inference endpoints.
 
-#### 4. [AI Job Application Automation]([Project Link 4])
+### 4. [AI Job Application Automation]([Project Link 4])
 > **Tech Stack:** `n8n` `SMTP` `Email APIs` `Automation`
 - Created an automated workflow with n8n to streamline job search and application submissions.
 - Integrated SMTP and Email APIs for automated resume delivery and recruiter outreach.
@@ -147,22 +127,16 @@ Hi! I'm Ayush Rakholiya, a **Full-Stack & AI/ML Engineer** at **Yudiz Solutions 
 
 ### **Yudiz Solutions**
 **Full Stack & AI/ML Engineer**  
-`Python` • `FastAPI` • `Django` • `React.js` • `OpenCV` • `YOLOv8` • `PostgreSQL` • `Docker` • `AWS`
+`Python` • `FastAPI` • `Django` • `React.js` • `OpenCV` • `YOLOv8` • `PostgreSQL` • `Docker`
 
 - Developing real-time Computer Vision applications using Python, OpenCV, and YOLOv8 to process live RTSP camera feeds for human detection, counting, and employee recognition.
 - Building FastAPI and Django REST Framework backend services for low-latency AI inference, business logic, and authentication.
-- Developing interactive React.js frontend dashboards integrated with backend APIs for enterprise web platforms.
-- Containerizing AI and web applications using Docker and managing PostgreSQL databases for scalable cloud deployment.
+- Developing interactive React.js frontend dashboards integrated with backend APIs for web platforms.
+- Containerizing AI and web applications using Docker and managing PostgreSQL databases for deployment.
 
 ---
 
-## Education & Certifications
-
-### Education
-- **Bachelor of Technology in Computer Engineering** — *Silver Oak University* (2023 – 2025)
-- **Diploma in Computer Engineering** — *Prime Institute of Engineering (GTU)* (2019 – 2022)
-
-### Certifications
+## Certifications
 - 📜 **Generative AI & LLM Applications** — Calyza Tech
 - 📜 **AI & Machine Learning Fundamentals** — Udemy (Andrei Neagoie)
 
@@ -186,5 +160,4 @@ Hi! I'm Ayush Rakholiya, a **Full-Stack & AI/ML Engineer** at **Yudiz Solutions 
 <p align="left">
   <a href="[LinkedIn URL]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:[Email]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="[Portfolio URL]"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
 </p>
